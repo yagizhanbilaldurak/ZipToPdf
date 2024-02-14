@@ -47,13 +47,13 @@ $ . venv/bin/activate
 > source myenv/bin/activate
 ```
 
-4. Run the program.
-```bash
-python app.py
-```
-5. Install the requirements.
+4. Install the requirements.
 ```bash
 pip install -r requirements.txt
+```
+5. Run the program.
+```bash
+python app.py
 ```
 6. Run the program.
 ```bash
