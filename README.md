@@ -22,9 +22,10 @@ File Merging: Merge multiple PDF files into a single document for convenience an
 3. Clone this repository.
 
 4. Specify to path for wkhtmltopdf.exe on conversions.py.
-   ![image](https://github.com/yagizhanbilaldurak/ZipToPdf/assets/115084674/be57f7e0-9515-45cd-9b31-ffce9139fef1)
 
-## Usage
+    ![image](https://github.com/yagizhanbilaldurak/ZipToPdf/assets/115084674/be57f7e0-9515-45cd-9b31-ffce9139fef1)
+
+## Running the Program
 1. Make sure you completed all installation steps.
 2. Navigate into project directory.
 ```bash
@@ -59,6 +60,32 @@ python app.py
 ```bash
 python app.py
 ```
+## How to Use
+1- We recommend user to create new folders with the given names (optional):
+
+![image](https://github.com/yagizhanbilaldurak/ZipToPdf/assets/115084674/c1f97491-3470-4fd9-8940-81d73ba9fe8e)
+
+2- Download or paste .zip files into the zipfiles folder.
+
+3- Specify folders with using Browse buttons:
+
+![asdasd](https://github.com/yagizhanbilaldurak/ZipToPdf/assets/115084674/67e20ce3-f9b1-4e44-b453-c5b28a9c708c)
+
+4- Press "Run Program" button. A similar screen will appear shortly (system dependent).
+
+![image](https://github.com/yagizhanbilaldurak/ZipToPdf/assets/115084674/31e678f4-e15a-442d-bfdc-203549ccce11)
+
+5- Once the conversion process is finished, all .zip files in the zipfiles folder will be deleted. You'll find the extracted HTML files in the htmlfiles folder and the PDF files in the pdffiles folder.
+
+- pdf files:
+
+![image](https://github.com/yagizhanbilaldurak/ZipToPdf/assets/115084674/8b55d030-42e3-439d-85bf-aa86244e1de3)
+
+- html files:
+
+![image](https://github.com/yagizhanbilaldurak/ZipToPdf/assets/115084674/81ae0fba-7630-4491-a6da-570ebdb977c0)
+
+6- You now have full control over your PDF files. You can make any changes you want and adapt them to your needs.
 
 ## License
 This project is licensed under the [MIT License](https://github.com/yagizhanbilaldurak/ZipToPdf?tab=MIT-1-ov-file#readme).
